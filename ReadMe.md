@@ -1,7 +1,7 @@
 
 ![BasaltMatrix](https://s.transfereasy.com/logo/bm_banner.png)
 
-# 汇通天下, 无处不达
+# 反洗钱、反恐怖募资解决方案
 
 * [官方网站](https://www.basaltmatrix.com)
 * [体验中心](https://cdd.basaltmatrix.com/record/enterprise)
