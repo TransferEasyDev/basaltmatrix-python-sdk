@@ -15,7 +15,7 @@ class Individual(object):
         request.post()
 
     def screening(self, params):
-        request = BasaltmatrixRequest('screening/individual', params)
+        request = BasaltmatrixRequest('screening/individual/v2', params)
         request.get()
 
 
